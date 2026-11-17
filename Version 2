@@ -12,3 +12,4 @@ print("Name Code:", full_name.upper())
 print("Section:", section.strip().upper())
 print("Favorite Subject:", favorite_subject.strip().title())
 print("Character Count:", len(full_name))
+
